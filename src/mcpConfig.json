@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "weatherServer": {
+        "command": "node",
+        "args": ["your_path/index.js"]
+      }
+    }
+  }
