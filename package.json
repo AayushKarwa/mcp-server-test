@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc -b",
-    "start": "node /Users/ayush/tests/my-mcp/dist/index.js",
+    "start": "dist/index.js",
     "dev": "npm run build && npm run start"
   },
   "keywords": [],
